@@ -1,0 +1,2 @@
+Getting a GradientDescent graph without PlotData's Training Data
+On executing ex1, I do not get the scatter graph's plottings as shown in the ex1 pdf. I've obtained the correct values for all the three programs.
